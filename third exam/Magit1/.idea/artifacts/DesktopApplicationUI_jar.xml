@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="DesktopApplicationUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DesktopApplicationUI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DesktopApplicationUI.jar">
+        <element id="module-output" name="DesktopApplicationUI" />
+        <element id="module-output" name="SystemEngine" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/AncestorFinder.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/commons-codec-1.12.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/commons-collections4-4.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/commons-io-2.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/DesktopApplicationUI/src/lib/ext/fxgraph-0.0.3.jar" />
+    </root>
+  </artifact>
+</component>

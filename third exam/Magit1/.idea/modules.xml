@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Magit1.iml" filepath="$PROJECT_DIR$/Magit1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemEngine/SystemEngine.iml" filepath="$PROJECT_DIR$/SystemEngine/SystemEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebUI/WebUI.iml" filepath="$PROJECT_DIR$/WebUI/WebUI.iml" />
+    </modules>
+  </component>
+</project>

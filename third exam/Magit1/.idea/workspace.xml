@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DesktopApplicationUI:jar" />
+      <artifact name="SystemEngine:jar" />
+      <artifact name="WebUI:war" />
+      <artifact name="WebUI:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93cab823-7e7f-499b-9af9-ce8e5ad2aa19" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="package-info" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1RbIGkRh9E4a0mrysVHjichKZhc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../second exam/MAgit/SourceCode/M.A.Git1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mor\Desktop\Magit1\WebUI\web\common\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mor\Desktop\Magit1\WebUI\web" />
+      <recent name="C:\Users\mor\Desktop\Magit1\WebUI\web\common\images" />
+      <recent name="C:\Users\ofekn\IdeaProjects\Magit1\WebUI\web\pages\repositoryInformation" />
+      <recent name="C:\Users\eli\Desktop\ofek\Magit1\Magit1\WebUI\src\MAGitHub\servlets" />
+      <recent name="C:\Users\eli\Desktop\ofek\Magit1\Magit1\WebUI\web\pages\MAGitHubAccount" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.MAGitHub">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DesktopApplicationUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="DesktopApplicationUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ConsoleUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MAGitHub" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.46" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="WebUI:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MAGit" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Magit1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="30536" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="WebUI:war exploded" />
+          <artifact name="WebUI:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Tomcat Server.MAGitHub" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93cab823-7e7f-499b-9af9-ce8e5ad2aa19" name="Default Changelist" comment="" />
+      <created>1564670001327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564670001327</updated>
+      <workItem from="1564670004361" duration="1135000" />
+      <workItem from="1565006417317" duration="3278000" />
+      <workItem from="1565074673693" duration="8007000" />
+      <workItem from="1565098395097" duration="9980000" />
+      <workItem from="1565109222199" duration="9630000" />
+      <workItem from="1565198263427" duration="24903000" />
+      <workItem from="1565510470384" duration="1105000" />
+      <workItem from="1565513451096" duration="703000" />
+      <workItem from="1565525165902" duration="3348000" />
+      <workItem from="1565589593372" duration="9876000" />
+      <workItem from="1565601396573" duration="5321000" />
+      <workItem from="1565619762254" duration="3520000" />
+      <workItem from="1565673200586" duration="902000" />
+      <workItem from="1565695588863" duration="4288000" />
+      <workItem from="1565707789036" duration="1557000" />
+      <workItem from="1565709986080" duration="7921000" />
+      <workItem from="1565847661029" duration="8488000" />
+      <workItem from="1565858853535" duration="2591000" />
+      <workItem from="1565863386949" duration="258000" />
+      <workItem from="1565864047612" duration="218000" />
+      <workItem from="1565873561766" duration="72000" />
+      <workItem from="1565873861842" duration="51000" />
+      <workItem from="1565874010271" duration="268000" />
+      <workItem from="1566116362480" duration="330000" />
+      <workItem from="1566117095029" duration="11920000" />
+      <workItem from="1566216329648" duration="48000" />
+      <workItem from="1566232039570" duration="3258000" />
+      <workItem from="1566283475589" duration="2925000" />
+      <workItem from="1566289813203" duration="20126000" />
+      <workItem from="1566372129139" duration="8477000" />
+      <workItem from="1566987851900" duration="612000" />
+      <workItem from="1567070760688" duration="22232000" />
+      <workItem from="1567150089891" duration="8702000" />
+      <workItem from="1567159338911" duration="820000" />
+      <workItem from="1567162226174" duration="29784000" />
+      <workItem from="1567279291514" duration="19000" />
+      <workItem from="1567280438772" duration="723000" />
+      <workItem from="1567322563772" duration="667000" />
+      <workItem from="1567323564872" duration="350000" />
+      <workItem from="1567339592079" duration="17341000" />
+      <workItem from="1567407110107" duration="23191000" />
+      <workItem from="1567447365709" duration="655000" />
+      <workItem from="1567448104809" duration="687000" />
+      <workItem from="1567454951623" duration="2804000" />
+      <workItem from="1567498210822" duration="9582000" />
+      <workItem from="1567508141780" duration="64000" />
+      <workItem from="1567537737344" duration="11524000" />
+      <workItem from="1567585526573" duration="13865000" />
+      <workItem from="1567669407826" duration="22507000" />
+      <workItem from="1567937815262" duration="8640000" />
+      <workItem from="1567964690662" duration="4775000" />
+      <workItem from="1567981291978" duration="965000" />
+      <workItem from="1567982356960" duration="1009000" />
+      <workItem from="1568012714155" duration="6098000" />
+      <workItem from="1568380889192" duration="8168000" />
+      <workItem from="1568392772788" duration="31000" />
+      <workItem from="1568411547765" duration="3476000" />
+      <workItem from="1568458279926" duration="15448000" />
+      <workItem from="1568493563008" duration="5592000" />
+      <workItem from="1568553465265" duration="244000" />
+      <workItem from="1568617068508" duration="31879000" />
+      <workItem from="1568702656573" duration="16572000" />
+      <workItem from="1568781242245" duration="629000" />
+      <workItem from="1568798762472" duration="35011000" />
+      <workItem from="1568898604095" duration="8416000" />
+      <workItem from="1568908771921" duration="8945000" />
+      <workItem from="1568962461453" duration="8351000" />
+      <workItem from="1568971516686" duration="4440000" />
+      <workItem from="1568978620018" duration="370000" />
+      <workItem from="1568979058904" duration="19748000" />
+      <workItem from="1569056684835" duration="8573000" />
+      <workItem from="1569072450367" duration="6853000" />
+      <workItem from="1569104592165" duration="3524000" />
+      <workItem from="1569220130132" duration="25226000" />
+      <workItem from="1569407617608" duration="16865000" />
+      <workItem from="1569433467208" duration="2581000" />
+      <workItem from="1569436260671" duration="1062000" />
+      <workItem from="1569929277227" duration="11663000" />
+      <workItem from="1569941839087" duration="158000" />
+      <workItem from="1569947653386" duration="1875000" />
+      <workItem from="1570030334512" duration="7683000" />
+      <workItem from="1570056058326" duration="36421000" />
+      <workItem from="1570273421900" duration="2975000" />
+      <workItem from="1570276713284" duration="33000" />
+      <workItem from="1570276755467" duration="5518000" />
+      <workItem from="1570283290428" duration="13742000" />
+      <workItem from="1570356865822" duration="8861000" />
+      <workItem from="1570366194648" duration="1379000" />
+      <workItem from="1570372619278" duration="5275000" />
+      <workItem from="1570387591439" duration="147000" />
+      <workItem from="1570443143024" duration="10439000" />
+      <workItem from="1570456599373" duration="4955000" />
+      <workItem from="1570461912544" duration="5832000" />
+      <workItem from="1570517064000" duration="12609000" />
+      <workItem from="1570722681776" duration="582000" />
+      <workItem from="1570723286047" duration="5666000" />
+      <workItem from="1570729726873" duration="149000" />
+      <workItem from="1570780848696" duration="3210000" />
+      <workItem from="1570877598823" duration="157000" />
+      <workItem from="1570968112784" duration="2372000" />
+      <workItem from="1571072097417" duration="39833000" />
+      <workItem from="1571388581189" duration="10136000" />
+      <workItem from="1571913119244" duration="15010000" />
+      <workItem from="1572078782239" duration="898000" />
+      <workItem from="1572079726390" duration="17953000" />
+      <workItem from="1572178776326" duration="1139000" />
+      <workItem from="1572355801102" duration="1882000" />
+      <workItem from="1572444785568" duration="4279000" />
+      <workItem from="1572946624744" duration="602000" />
+      <workItem from="1573036975123" duration="25000" />
+      <workItem from="1573722562398" duration="904000" />
+      <workItem from="1573726919593" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SystemEngine/src/LogicEngine/Magit.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SystemEngine/src/LogicEngine/Magit.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DesktopApplicationUI/src/main/MainAppFormController.java</url>
+          <line>895</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DesktopApplicationUI/src/components/commitTree/commitNode/CommitNode.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WebUI/src/RepositoryInformation/servlets/CreateRTBAndCheckoutServlet.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SystemEngine/src/logic/Repository.java</url>
+          <line>461</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SystemEngine/src/logic/MAGit.java</url>
+          <line>1710</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>55</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>94</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>117</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebUI/web/pages/MAGitHubAccount/chatroom.js</url>
+          <line>122</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/WebUI/src/RepositoryInformation/servlets/CreateFileServlet.java</url>
+          <line>20</line>
+          <properties class="RepositoryInformation.servlets.CreateFileServlet">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="magitBranches.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
